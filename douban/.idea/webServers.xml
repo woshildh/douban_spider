@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1d76eb3c-3304-4886-8a7a-bd59c8d812ae" name="guishi" url="http://10.108.218.133">
+        <fileTransfer host="10.108.218.133" port="22" rootFolder="/home/usr815_01" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
