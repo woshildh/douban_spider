@@ -74,8 +74,8 @@ def start_main(threadnum,driver_list):
 
 if __name__=="__main__":
 	#用户名、密码列表，可以自己增加
-	user_list=["1611577783@qq.com","2948774009@qq.com","17562216771"]
-	pw_list=["chensi2017110641","ldh1995wl","lw19941203"]
+	user_list=[]
+	pw_list=[]
 	driver_list=[]
 	#构建driver_list列表
 	for i in range(0,len(user_list)):
